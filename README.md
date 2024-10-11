@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Pingale</h1>
 <h3 align="center">Nothing Much To See Here!.</h3>
 <p align="center">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/C560BAQEWoDsHBLh33w/company-logo_200_200/company-logo_200_200/0/1630603427412?e=2147483647&v=beta&t=XdYBX_1CPCzyZOshA9Q1GcnU_p32KS3VSv4WCzGu7xI" alt="aws" width="140" height="140"/> </a></p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.fyntune.com/images/logo/logo.png" alt="fyntune" width="300" height="75" /> </a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://www.linkedin.com/in/vedantpingale/" target="_blank" rel="noreferrer">LinkedIn</a></p>
 
